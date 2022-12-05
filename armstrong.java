@@ -5,7 +5,7 @@ import java.io.*;
 public class armstrong
 {
 	public static void main (String[] args) throws java.lang.Exception
-	{Scanner sc=new Scanner(System.in); // this cod eis for taking input in n;
+	{Scanner sc=new Scanner(System.in);
     System.out.println("enter the no :");
    int N=sc.nextInt();
    int M=N;
